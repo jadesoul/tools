@@ -14,7 +14,7 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 set(CMAKE_CXX_FLAGS_RELWITHDEBINFO "-g -O2 -DNDEBUG")
 
 
-# include_directories(${INC_INSTALL_DIR})
+include_directories(${INC_INSTALL_DIR})
 
 set(apps
 	trim
