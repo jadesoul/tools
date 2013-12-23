@@ -8,7 +8,7 @@
  * Written In: Peking University, beijing, China
  */
 
-#include <libsoul>
+#include <libsoul/libsoul.h>
 
 void process(istream& in, int start, int lines, bool verbose, bool line_number) {
 	string s;

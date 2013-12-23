@@ -8,7 +8,7 @@
  * Written In: Peking University, beijing, China
  */
 
-#include <libsoul>
+#include <libsoul/libsoul.h>
 
 int main () {
 	cout<<"hello, world"<<endl;

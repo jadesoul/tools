@@ -8,7 +8,7 @@
  * Written In: Alibaba-inc, Hangzhou, China
  */
 
-#include <libsoul>
+#include <libsoul/libsoul.h>
 
 int main (int argc, const char* argv[]) {
 	OptionParser parser;

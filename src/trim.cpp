@@ -8,7 +8,7 @@
  * Written In: Peking University, beijing, China
  */
 
-#include <libsoul>
+#include <libsoul/libsoul.h>
 
 void remove_empty_lines(istream& in, bool left, bool right, bool verbose) {
 	// if (verbose) clog<<"now enter void remove_empty_lines(istream& in, bool left, bool right, bool verbose)"<<endl;

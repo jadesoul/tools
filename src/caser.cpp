@@ -8,7 +8,7 @@
  * Written In: Peking University, beijing, China
  */
 
-#include <libsoul>
+#include <libsoul/libsoul.h>
 
 void process_truecase(istream& in, bool verbose) {
 	int cnt_diff[26];//the count of lower cased letter minus count of its upper case
